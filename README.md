@@ -6,8 +6,8 @@ Správná řešení tu schválně nejsou, jsou jen v databázi otázek.
 
 ## Spuštění
 
-- **StackBlitz:** `https://stackblitz.com/github/<owner>/<repo>` (repo musí být veřejné). Konkrétní soubor otevřeš přidáním `?file=src/snippets/eff-10.tsx`.
-- **Lokálně:** `npm install && npm run dev`
+- **StackBlitz:** https://stackblitz.com/github/jblxo/react-snippets. Konkrétní soubor otevřeš přidáním `?file=src/snippets/eff-10.tsx`, např. https://stackblitz.com/github/jblxo/react-snippets?file=src/snippets/eff-10.tsx.
+- **Lokálně:** `pnpm install && pnpm dev`
 
 V aplikaci je vlevo seznam ukázek a přepínač StrictMode (výchozí zapnutý, jako v Next.js v dev módu). Dole je panel Konzole, který zrcadlí `console.log`.
 
